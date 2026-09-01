@@ -1,0 +1,59 @@
+about:
+  description: Comfortably monitor your network traffic 🕵️‍♂️
+  license: Apache-2.0
+  homepage: https://sniffnet.app
+  head: 690aa3c
+  archived: false
+  latestVersion: v1.5.1
+  collectedAt: 2026-09-01T05:12:02Z
+timeline:
+  created: 2022-07-31
+  lastCommit: 2026-08-29
+  lastRelease: 2026-07-22
+popularity:
+  star: 40960
+  watcher: 201
+  fork: 1972
+  release: 18
+  contributor: 76
+  pullRequest: 290
+  issue: 372
+language:
+  Rust: 1198575
+  Rich Text Format: 10415
+  Shell: 1444
+  Dockerfile: 653
+totalLine: 1211087
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 12
+    openPR: 8
+    closedIssue: 2
+    openIssue: 3
+    commit: 58
+  last90d:
+    since: 2026-06-03
+    release: 1
+    mergedPR: 29
+    openPR: 11
+    closedIssue: 15
+    openIssue: 3
+    commit: 127
+  last180d:
+    since: 2026-03-05
+    release: 2
+    mergedPR: 64
+    openPR: 11
+    closedIssue: 42
+    openIssue: 16
+    commit: 253
+  last360d:
+    since: 2025-09-06
+    release: 4
+    mergedPR: 111
+    openPR: 12
+    closedIssue: 57
+    openIssue: 32
+    commit: 513
