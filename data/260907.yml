@@ -5,13 +5,13 @@ about:
   head: fa1df72
   archived: false
   latestVersion: "v1.5.1"
-  collectedAt: 2026-09-07T04:50:58Z
+  collectedAt: 2026-09-07T19:35:43Z
 timeline:
   created: 2022-07-31
   lastCommit: 2026-09-05
   lastRelease: 2026-07-22
 popularity:
-  star: 41044
+  star: 41048
   watcher: 200
   fork: 1972
   release: 18
@@ -30,59 +30,59 @@ recent:
     release: 0
     mergedPR: 14
     openPR: 5
-    closedIssue: 2
-    openIssue: 3
+    closedIssue: 3
+    openIssue: 2
     commit: 75
   last60d:
     since: 2026-07-09
     release: 1
     mergedPR: 24
     openPR: 6
-    closedIssue: 8
-    openIssue: 3
+    closedIssue: 9
+    openIssue: 2
     commit: 128
   last90d:
     since: 2026-06-09
     release: 1
     mergedPR: 33
     openPR: 8
-    closedIssue: 15
-    openIssue: 3
+    closedIssue: 16
+    openIssue: 2
     commit: 149
   last180d:
     since: 2026-03-11
     release: 2
     mergedPR: 65
     openPR: 9
-    closedIssue: 40
-    openIssue: 15
+    closedIssue: 41
+    openIssue: 14
     commit: 259
   last360d:
     since: 2025-09-12
     release: 4
     mergedPR: 113
     openPR: 10
-    closedIssue: 58
-    openIssue: 31
+    closedIssue: 59
+    openIssue: 30
     commit: 534
   last720d:
     since: 2024-09-17
     release: 6
     mergedPR: 251
     openPR: 10
-    closedIssue: 140
-    openIssue: 44
+    closedIssue: 141
+    openIssue: 43
     commit: 1363
 total:
   release: 18
   mergedPR: 560
   openPR: 10
-  closedIssue: 316
-  openIssue: 56
+  closedIssue: 317
+  openIssue: 55
   commit: 3134
 ---
 path: /home/runner/.x-repo/github.com/GyulyVGC/sniffnet
-collectedAt: 2026-09-07T04:51:18Z
+collectedAt: 2026-09-07T19:36:08Z
 loc:
   Rust:
     code: 27847
@@ -138,7 +138,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:51:20+00:00
+  collectedAt: 2026-09-07T19:36:11+00:00
   platform:
     darwin/arm64:
       name:  Sniffnet_macOS_Intel.dmg
