@@ -5,14 +5,14 @@ about:
   head: ec3fba2
   archived: false
   latestVersion: "v1.5.1"
-  collectedAt: 2026-09-08T02:08:15Z
+  collectedAt: 2026-09-08T04:54:45Z
 timeline:
   created: 2022-07-31
   lastCommit: 2026-09-07
   lastRelease: 2026-07-22
 popularity:
-  star: 41052
-  watcher: 200
+  star: 41056
+  watcher: 199
   fork: 1972
   release: 18
   contributor: 76
@@ -82,7 +82,7 @@ total:
   commit: 3138
 ---
 path: /home/runner/.x-repo/github.com/GyulyVGC/sniffnet
-collectedAt: 2026-09-08T02:08:35Z
+collectedAt: 2026-09-08T04:55:09Z
 loc:
   Rust:
     code: 27947
