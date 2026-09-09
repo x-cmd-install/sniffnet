@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 21002744,
       "digest": "sha256:04f209d5e45157c57a6fdf34acf82359df88be36046af247fa55693beda7722f",
-      "download_count": 1804,
+      "download_count": 1832,
       "created_at": "2026-07-21T19:52:44Z",
       "updated_at": "2026-07-21T19:53:01Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_amd64.AppImage"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 20224520,
       "digest": "sha256:dca39a8beca9002e7ca5b8ecd22f10f27c06723eae362a78ceaadba0eed70944",
-      "download_count": 1029,
+      "download_count": 1045,
       "created_at": "2026-07-21T19:51:25Z",
       "updated_at": "2026-07-21T19:51:39Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_arm64.AppImage"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 20168068,
       "digest": "sha256:2847e1d751003313bce5d8cf87e29f6fa43bfbd749c67bcf45cc95f84c5664b0",
-      "download_count": 461,
+      "download_count": 467,
       "created_at": "2026-07-21T19:51:39Z",
       "updated_at": "2026-07-21T19:51:54Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_armhf.AppImage"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 21110136,
       "digest": "sha256:f089c995ecfc983a00d84c0f8af81faffa9057bed72237a8c460021ffbff8b78",
-      "download_count": 716,
+      "download_count": 722,
       "created_at": "2026-07-21T19:50:45Z",
       "updated_at": "2026-07-21T19:51:02Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_i386.AppImage"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14561560,
       "digest": "sha256:ba4586d5c84e45f9d5cc6deb2838652b69d4ce18e91a5e31eb1474f45d52ce98",
-      "download_count": 2545,
+      "download_count": 2577,
       "created_at": "2026-07-21T19:52:33Z",
       "updated_at": "2026-07-21T19:52:44Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_amd64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13500176,
       "digest": "sha256:9c9401ae495a5ca6e69a45722c79c58d798712db4b5d1f05c91eb457b5bc089f",
-      "download_count": 657,
+      "download_count": 670,
       "created_at": "2026-07-21T19:52:20Z",
       "updated_at": "2026-07-21T19:52:33Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_arm64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13624296,
       "digest": "sha256:7bb05d1bfcf6c2e2288a1f76258f3e1e0369c98f3ba68da9a380c07443227be6",
-      "download_count": 535,
+      "download_count": 542,
       "created_at": "2026-07-21T19:52:09Z",
       "updated_at": "2026-07-21T19:52:20Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_armhf.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 14732448,
       "digest": "sha256:a35f14833eafaaa8062671df6e96dcae4e5a94906002f17909f81f03ad01c39b",
-      "download_count": 845,
+      "download_count": 854,
       "created_at": "2026-07-21T19:51:14Z",
       "updated_at": "2026-07-21T19:51:25Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_i386.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 17494943,
       "digest": "sha256:289d1c8a40d1ff784916e2ce4f8678b772610f55a0d8610b08182383572307ab",
-      "download_count": 511,
+      "download_count": 521,
       "created_at": "2026-07-21T19:48:41Z",
       "updated_at": "2026-07-21T19:48:54Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxRPM_aarch64.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 18118187,
       "digest": "sha256:31b32726993ebe55eb9dc5b3eaca9a24058ea1372dcc2f1bcf747501e427e430",
-      "download_count": 1133,
+      "download_count": 1153,
       "created_at": "2026-07-21T19:50:06Z",
       "updated_at": "2026-07-21T19:50:24Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxRPM_x86_64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 19585013,
       "digest": "sha256:49f9169f8720d35f08133273d47b2cb983ad9b77636aa837301bbfb1a0a03774",
-      "download_count": 3158,
+      "download_count": 3190,
       "created_at": "2026-07-21T19:50:24Z",
       "updated_at": "2026-07-21T19:50:45Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_AppleSilicon.dmg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 20054969,
       "digest": "sha256:5f6a720c7c09305dde71590e9e59f00bec733312399050efbaf379002eb9c107",
-      "download_count": 1605,
+      "download_count": 1621,
       "created_at": "2026-07-21T19:47:04Z",
       "updated_at": "2026-07-21T19:47:28Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_Intel.dmg"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 20746240,
       "digest": "sha256:54b52b1ce8bfd9e0d6d727da8db988bc6b6a843492c7ce4afc4709e8378eec9a",
-      "download_count": 2681,
+      "download_count": 2713,
       "created_at": "2026-07-21T19:48:25Z",
       "updated_at": "2026-07-21T19:48:41Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_arm64.msi"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 21233664,
       "digest": "sha256:3f4dacf273b0e5270d4055a6561c5b0e1e0747ef6530f984cc42389ebc401700",
-      "download_count": 16699,
+      "download_count": 16918,
       "created_at": "2026-07-21T19:47:28Z",
       "updated_at": "2026-07-21T19:48:13Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 20578304,
       "digest": "sha256:eee53cbd9aaa80d8e046363c5a8881839a057618bb58b5ce942e562580ced234",
-      "download_count": 3257,
+      "download_count": 3293,
       "created_at": "2026-07-21T19:46:43Z",
       "updated_at": "2026-07-21T19:47:04Z",
       "browser_download_url": "https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi"
