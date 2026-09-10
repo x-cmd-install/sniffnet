@@ -12,6 +12,18 @@ Comfortably monitor your network traffic 🕵️‍♂️
 x install sniffnet
 ```
 
+## Code insight
+
+Total: **29,803** lines of code across **448** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 27,947 | 2,124 | 2,805 | 165 |
+| Svg | 1,523 | 4 | 4 | 265 |
+| Toml | 271 | 19 | 43 | 13 |
+| Dockerfile | 18 | 3 | 7 | 1 |
+| Sh | 18 | 8 | 11 | 4 |
+
 ## Source
 
 - **Upstream**: <https://github.com/GyulyVGC/sniffnet>
@@ -23,6 +35,25 @@ x install sniffnet
 - **Latest**: `v1.5.1` (2026-07-22)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 15
+
+## Popularity
+
+- **Stars**: 41,075 · **Forks**: 1,963 · **Open issues**: 372 · **Contributors**: 76
+
+## Totals (cumulative)
+
+- **Releases**: 18 · **Merged PRs**: 561 · **Open PRs**: 9 · **Closed issues**: 318 · **Open issues**: 54 · **Commits**: 3138
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 15 | 4 | 3 | 2 | 78 |
+| last60d | 2026-07-12 | 1 | 21 | 5 | 8 | 2 | 131 |
+| 90d | 2026-06-12 | 1 | 34 | 7 | 16 | 2 | 152 |
+| last180d | 2026-03-14 | 2 | 66 | 8 | 41 | 13 | 262 |
+| 360d | 2025-09-15 | 3 | 114 | 9 | 59 | 28 | 537 |
+| last720d | 2024-09-20 | 6 | 250 | 9 | 142 | 42 | 1363 |
 
 ## Release assets
 
@@ -44,33 +75,15 @@ x install sniffnet
 | [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi) | 20.2 MiB | `native/win/x64` |
 | [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi) | 19.6 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 41,072 · **Forks**: 1,963 · **Open issues**: 372 · **Contributors**: 76
+Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **26** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 18 · **Merged PRs**: 561 · **Open PRs**: 9 · **Closed issues**: 318 · **Open issues**: 54 · **Commits**: 3138
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 15 | 4 | 3 | 2 | 78 |
-| 90d | 2026-06-12 | 1 | 34 | 7 | 16 | 2 | 152 |
-| 360d | 2025-09-15 | 3 | 114 | 9 | 59 | 28 | 537 |
-
-## Code size
-
-Total: **29,803** lines of code across **448** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 27,947 | 2,124 | 2,805 | 165 |
-| Svg | 1,523 | 4 | 4 | 265 |
-| Toml | 271 | 19 | 43 | 13 |
-| Dockerfile | 18 | 3 | 7 | 1 |
-| Sh | 18 | 8 | 11 | 4 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.5.1` | ✅ latest |
+| Homebrew | `1.5.1` | ✅ latest |
+| Nix unstable | `1.5.1` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +94,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:48:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:52:12Z._
