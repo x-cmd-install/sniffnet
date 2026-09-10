@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.5.1"
   latestRelease: "v1.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:48:28Z
+  collectedAt: 2026-09-10T22:59:52Z
 timeline:
   created: 2022-07-31
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-22
   lastPrerelease: 
 popularity:
-  star: 41075
+  star: 41076
   watcher: 199
   fork: 1963
   release: 18
@@ -86,7 +86,7 @@ total:
   commit: 3138
 ---
 path: /home/runner/.x-repo/github.com/GyulyVGC/sniffnet
-collectedAt: 2026-09-10T20:51:49Z
+collectedAt: 2026-09-10T23:00:21Z
 loc:
   Rust:
     code: 27947
