@@ -23,11 +23,30 @@ x install sniffnet
 - **Latest**: `v1.5.1` (2026-07-22)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 15
-- **Published**: 2026-07-22T07:54:30Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [Sniffnet_LinuxAppImage_amd64.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_amd64.AppImage) | 20.0 MiB | `native/linux/x64` |
+| [Sniffnet_LinuxAppImage_arm64.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_arm64.AppImage) | 19.3 MiB | `native/linux/arm64` |
+| [Sniffnet_LinuxAppImage_armhf.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_armhf.AppImage) | 19.2 MiB | `native/linux/arm` |
+| [Sniffnet_LinuxAppImage_i386.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_i386.AppImage) | 20.1 MiB | `native/linux/x86` |
+| [Sniffnet_LinuxDEB_amd64.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_amd64.deb) | 13.9 MiB | `native/linux/x64` |
+| [Sniffnet_LinuxDEB_arm64.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_arm64.deb) | 12.9 MiB | `native/linux/arm64` |
+| [Sniffnet_LinuxDEB_armhf.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_armhf.deb) | 13.0 MiB | `native/linux/arm` |
+| [Sniffnet_LinuxDEB_i386.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_i386.deb) | 14.0 MiB | `native/linux/x86` |
+| [Sniffnet_LinuxRPM_aarch64.rpm](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxRPM_aarch64.rpm) | 16.7 MiB | `native/linux/arm64` |
+| [Sniffnet_LinuxRPM_x86_64.rpm](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxRPM_x86_64.rpm) | 17.3 MiB | `native/linux/x64` |
+| [Sniffnet_macOS_AppleSilicon.dmg](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_AppleSilicon.dmg) | 18.7 MiB | `native/darwin/x64` |
+| [Sniffnet_macOS_Intel.dmg](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_Intel.dmg) | 19.1 MiB | `native/darwin/x64` |
+| [Sniffnet_Windows_arm64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_arm64.msi) | 19.8 MiB | `native/win/arm64` |
+| [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi) | 20.2 MiB | `native/win/x64` |
+| [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi) | 19.6 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 41,069 · **Forks**: 1,962 · **Open issues**: 372 · **Contributors**: 76
+- **Stars**: 41,072 · **Forks**: 1,963 · **Open issues**: 372 · **Contributors**: 76
 
 ## Totals (cumulative)
 
@@ -58,8 +77,8 @@ Total: **29,803** lines of code across **448** files in the top 5 languages.
 Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sniffnet` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/sniffnet.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/sniffnet.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:59:25Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:48:35Z._
