@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.5.1"
   latestRelease: "v1.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:56:03Z
+  collectedAt: 2026-09-11T20:00:36Z
 timeline:
   created: 2022-07-31
   lastCommit: 2026-09-07
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-07-22
   lastPrerelease: 
 popularity:
-  star: 41077
-  watcher: 199
-  fork: 1963
+  star: 41083
+  watcher: 200
+  fork: 1964
   release: 18
   contributor: 76
-  pullRequest: 850
+  pullRequest: 851
   issue: 372
 language:
   Rust: 1222203
@@ -33,7 +33,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 15
-    openPR: 4
+    openPR: 5
     closedIssue: 2
     openIssue: 2
     commit: 78
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-13
     release: 1
     mergedPR: 21
-    openPR: 5
+    openPR: 6
     closedIssue: 8
     openIssue: 2
     commit: 131
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-13
     release: 1
     mergedPR: 34
-    openPR: 7
+    openPR: 8
     closedIssue: 16
     openIssue: 2
     commit: 152
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-15
     release: 2
     mergedPR: 66
-    openPR: 8
+    openPR: 9
     closedIssue: 41
     openIssue: 13
     commit: 262
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-16
     release: 3
     mergedPR: 114
-    openPR: 9
+    openPR: 10
     closedIssue: 59
     openIssue: 28
     commit: 537
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-21
     release: 6
     mergedPR: 249
-    openPR: 9
+    openPR: 10
     closedIssue: 141
     openIssue: 42
     commit: 1356
 total:
   release: 18
   mergedPR: 561
-  openPR: 9
+  openPR: 10
   closedIssue: 318
   openIssue: 54
   commit: 3138
 ---
 path: /home/runner/.x-repo/github.com/GyulyVGC/sniffnet
-collectedAt: 2026-09-11T04:56:27Z
+collectedAt: 2026-09-11T20:01:13Z
 loc:
   Rust:
     code: 27947
