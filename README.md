@@ -38,22 +38,22 @@ Total: **29,803** lines of code across **448** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 41,083 · **Forks**: 1,964 · **Open issues**: 372 · **Contributors**: 76
+- **Stars**: 41,089 · **Forks**: 1,964 · **Open issues**: 372 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 561 · **Open PRs**: 10 · **Closed issues**: 318 · **Open issues**: 54 · **Commits**: 3138
+- **Releases**: 18 · **Merged PRs**: 561 · **Open PRs**: 11 · **Closed issues**: 318 · **Open issues**: 54 · **Commits**: 3138
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 15 | 5 | 2 | 2 | 78 |
-| last60d | 2026-07-13 | 1 | 21 | 6 | 8 | 2 | 131 |
-| 90d | 2026-06-13 | 1 | 34 | 8 | 16 | 2 | 152 |
-| last180d | 2026-03-15 | 2 | 66 | 9 | 41 | 13 | 262 |
-| 360d | 2025-09-16 | 3 | 114 | 10 | 59 | 28 | 537 |
-| last720d | 2024-09-21 | 6 | 249 | 10 | 141 | 42 | 1356 |
+| 30d | 2026-08-13 | 0 | 15 | 6 | 2 | 2 | 78 |
+| last60d | 2026-07-14 | 1 | 21 | 7 | 8 | 2 | 131 |
+| 90d | 2026-06-14 | 1 | 32 | 9 | 14 | 2 | 152 |
+| last180d | 2026-03-16 | 2 | 66 | 10 | 41 | 13 | 262 |
+| 360d | 2025-09-17 | 3 | 113 | 11 | 59 | 28 | 537 |
+| last720d | 2024-09-22 | 6 | 249 | 11 | 141 | 42 | 1345 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:01:28Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:53:54Z._
