@@ -38,22 +38,22 @@ Total: **30,099** lines of code across **450** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 41,093 · **Forks**: 1,963 · **Open issues**: 372 · **Contributors**: 76
+- **Stars**: 41,104 · **Forks**: 1,960 · **Open issues**: 372 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 563 · **Open PRs**: 8 · **Closed issues**: 319 · **Open issues**: 53 · **Commits**: 3153
+- **Releases**: 18 · **Merged PRs**: 563 · **Open PRs**: 9 · **Closed issues**: 319 · **Open issues**: 53 · **Commits**: 3153
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 16 | 3 | 2 | 2 | 90 |
-| last60d | 2026-07-15 | 1 | 23 | 4 | 7 | 2 | 143 |
-| 90d | 2026-06-15 | 1 | 34 | 6 | 14 | 2 | 164 |
-| last180d | 2026-03-17 | 2 | 68 | 7 | 41 | 13 | 274 |
-| 360d | 2025-09-18 | 3 | 113 | 8 | 60 | 27 | 549 |
-| last720d | 2024-09-23 | 6 | 251 | 8 | 142 | 41 | 1360 |
+| 30d | 2026-08-15 | 0 | 16 | 4 | 2 | 2 | 73 |
+| last60d | 2026-07-16 | 1 | 23 | 5 | 7 | 2 | 127 |
+| 90d | 2026-06-16 | 1 | 34 | 7 | 13 | 2 | 163 |
+| last180d | 2026-03-18 | 2 | 68 | 8 | 41 | 13 | 273 |
+| 360d | 2025-09-19 | 3 | 113 | 9 | 60 | 26 | 540 |
+| last720d | 2024-09-24 | 6 | 251 | 9 | 141 | 41 | 1360 |
 
 ## Release assets
 
@@ -75,16 +75,6 @@ Total: **30,099** lines of code across **450** files in the top 5 languages.
 | [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi) | 20.2 MiB | `native/win/x64` |
 | [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi) | 19.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **26** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.5.1` | ✅ latest |
-| Homebrew | `1.5.1` | ✅ latest |
-| Nix unstable | `1.5.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sniffnet` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -94,4 +84,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:08:07Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:24:18Z._
