@@ -4,7 +4,7 @@
 
 Comfortably monitor your network traffic 🕵️‍♂️
 
-![sniffnet](https://repo.x-cmd.io/sniffnet.svg)
+[![x-cmd/install — sniffnet Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sniffnet.svg)](https://x-cmd.com/install/sniffnet)
 
 ## Install
 
@@ -33,27 +33,27 @@ Total: **30,252** lines of code across **447** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.1` (2026-07-22)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-19
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 41,147 · **Forks**: 1,959 · **Open issues**: 372 · **Contributors**: 76
+- **Stars**: 41,163 · **Forks**: 1,960 · **Open issues**: 372 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 565 · **Open PRs**: 9 · **Closed issues**: 320 · **Open issues**: 52 · **Commits**: 3159
+- **Releases**: 18 · **Merged PRs**: 566 · **Open PRs**: 9 · **Closed issues**: 320 · **Open issues**: 52 · **Commits**: 3161
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 17 | 4 | 2 | 2 | 78 |
-| last60d | 2026-07-20 | 1 | 23 | 5 | 5 | 2 | 132 |
-| 90d | 2026-06-20 | 1 | 35 | 7 | 13 | 2 | 168 |
-| last180d | 2026-03-22 | 2 | 70 | 8 | 40 | 13 | 278 |
-| 360d | 2025-09-23 | 3 | 114 | 9 | 60 | 26 | 545 |
-| last720d | 2024-09-28 | 6 | 253 | 9 | 142 | 40 | 1366 |
+| 30d | 2026-08-21 | 0 | 18 | 4 | 2 | 2 | 79 |
+| last60d | 2026-07-22 | 1 | 24 | 5 | 4 | 2 | 133 |
+| 90d | 2026-06-22 | 1 | 36 | 7 | 11 | 2 | 169 |
+| last180d | 2026-03-24 | 2 | 71 | 8 | 40 | 13 | 279 |
+| 360d | 2025-09-25 | 3 | 114 | 9 | 60 | 26 | 546 |
+| last720d | 2024-09-30 | 6 | 254 | 9 | 142 | 40 | 1368 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:01:34Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:10:51Z._
