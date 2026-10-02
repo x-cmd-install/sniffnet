@@ -33,27 +33,27 @@ Total: **30,252** lines of code across **447** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.1` (2026-07-22)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-10-01
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 41,309 · **Forks**: 1,966 · **Open issues**: 372 · **Contributors**: 76
+- **Stars**: 41,313 · **Forks**: 1,965 · **Open issues**: 372 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 566 · **Open PRs**: 12 · **Closed issues**: 320 · **Open issues**: 52 · **Commits**: 3161
+- **Releases**: 18 · **Merged PRs**: 567 · **Open PRs**: 11 · **Closed issues**: 320 · **Open issues**: 52 · **Commits**: 3163
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 9 | 4 | 1 | 0 | 25 |
-| last60d | 2026-08-02 | 0 | 23 | 8 | 4 | 2 | 116 |
-| 90d | 2026-07-03 | 1 | 34 | 8 | 11 | 2 | 165 |
-| last180d | 2026-04-04 | 2 | 68 | 11 | 38 | 13 | 258 |
-| 360d | 2025-10-06 | 3 | 113 | 12 | 59 | 26 | 538 |
-| last720d | 2024-10-11 | 6 | 254 | 12 | 141 | 38 | 1368 |
+| 30d | 2026-09-02 | 0 | 9 | 3 | 1 | 0 | 26 |
+| last60d | 2026-08-03 | 0 | 22 | 6 | 4 | 2 | 117 |
+| 90d | 2026-07-04 | 1 | 35 | 7 | 10 | 2 | 166 |
+| last180d | 2026-04-05 | 2 | 69 | 10 | 38 | 13 | 259 |
+| 360d | 2025-10-07 | 3 | 114 | 11 | 59 | 26 | 539 |
+| last720d | 2024-10-12 | 6 | 255 | 11 | 141 | 38 | 1370 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:06:33Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:52:43Z._
