@@ -14,13 +14,13 @@ x install sniffnet
 
 ## Code insight
 
-Total: **30,252** lines of code across **447** files in the top 5 languages.
+Total: **30,517** lines of code across **469** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 28,265 | 2,152 | 2,831 | 167 |
-| Svg | 1,523 | 4 | 4 | 265 |
-| Toml | 271 | 19 | 43 | 13 |
+| Rust | 28,615 | 2,181 | 2,877 | 168 |
+| Svg | 1,437 | 4 | 4 | 286 |
+| Toml | 272 | 19 | 43 | 13 |
 | Python | 131 | 10 | 20 | 1 |
 | Dockerfile | 18 | 3 | 7 | 1 |
 
@@ -33,27 +33,27 @@ Total: **30,252** lines of code across **447** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.1` (2026-07-22)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-04
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 41,326 · **Forks**: 1,961 · **Open issues**: 372 · **Contributors**: 76
+- **Stars**: 41,337 · **Forks**: 1,962 · **Open issues**: 372 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 567 · **Open PRs**: 11 · **Closed issues**: 320 · **Open issues**: 52 · **Commits**: 3163
+- **Releases**: 18 · **Merged PRs**: 569 · **Open PRs**: 10 · **Closed issues**: 321 · **Open issues**: 51 · **Commits**: 3184
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 8 | 3 | 1 | 0 | 26 |
-| last60d | 2026-08-05 | 0 | 21 | 6 | 3 | 2 | 117 |
-| 90d | 2026-07-06 | 1 | 34 | 7 | 10 | 2 | 166 |
-| last180d | 2026-04-07 | 2 | 69 | 10 | 38 | 13 | 259 |
-| 360d | 2025-10-09 | 3 | 114 | 11 | 58 | 26 | 539 |
-| last720d | 2024-10-14 | 6 | 255 | 11 | 141 | 38 | 1370 |
+| 30d | 2026-09-05 | 0 | 9 | 2 | 1 | 0 | 34 |
+| last60d | 2026-08-06 | 0 | 23 | 5 | 3 | 2 | 118 |
+| 90d | 2026-07-07 | 1 | 34 | 6 | 10 | 2 | 168 |
+| last180d | 2026-04-08 | 2 | 68 | 9 | 38 | 13 | 264 |
+| 360d | 2025-10-10 | 3 | 116 | 10 | 59 | 25 | 548 |
+| last720d | 2024-10-15 | 6 | 257 | 10 | 142 | 37 | 1390 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:07:34Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:50:18Z._
