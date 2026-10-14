@@ -33,27 +33,27 @@ Total: **30,517** lines of code across **469** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.1` (2026-07-22)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-13
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 41,477 · **Forks**: 1,968 · **Open issues**: 372 · **Contributors**: 76
+- **Stars**: 41,513 · **Forks**: 1,968 · **Open issues**: 371 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 569 · **Open PRs**: 15 · **Closed issues**: 321 · **Open issues**: 51 · **Commits**: 3184
+- **Releases**: 18 · **Merged PRs**: 570 · **Open PRs**: 15 · **Closed issues**: 320 · **Open issues**: 51 · **Commits**: 3185
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 5 | 7 | 0 | 0 | 15 |
-| last60d | 2026-08-14 | 0 | 22 | 10 | 2 | 2 | 105 |
-| 90d | 2026-07-15 | 1 | 29 | 11 | 7 | 2 | 156 |
-| last180d | 2026-04-16 | 1 | 64 | 14 | 38 | 13 | 246 |
-| 360d | 2025-10-18 | 3 | 115 | 15 | 56 | 25 | 542 |
-| last720d | 2024-10-23 | 6 | 257 | 15 | 141 | 37 | 1390 |
+| 30d | 2026-09-14 | 0 | 7 | 7 | 0 | 0 | 16 |
+| last60d | 2026-08-15 | 0 | 24 | 10 | 2 | 2 | 106 |
+| 90d | 2026-07-16 | 1 | 31 | 11 | 7 | 2 | 157 |
+| last180d | 2026-04-17 | 1 | 65 | 14 | 34 | 12 | 247 |
+| 360d | 2025-10-19 | 3 | 117 | 15 | 55 | 25 | 543 |
+| last720d | 2024-10-24 | 6 | 259 | 15 | 141 | 37 | 1391 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:06:28Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:09:54Z._
