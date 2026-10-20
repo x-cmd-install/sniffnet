@@ -18,7 +18,7 @@ Total: **31,345** lines of code across **469** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 29,443 | 2,186 | 2,941 | 168 |
+| Rust | 29,443 | 2,360 | 2,941 | 168 |
 | Svg | 1,437 | 4 | 4 | 286 |
 | Toml | 272 | 19 | 43 | 13 |
 | Python | 131 | 10 | 20 | 1 |
@@ -33,27 +33,27 @@ Total: **31,345** lines of code across **469** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.1` (2026-07-22)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-19
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 41,622 · **Forks**: 1,972 · **Open issues**: 371 · **Contributors**: 77
+- **Stars**: 41,647 · **Forks**: 1,971 · **Open issues**: 371 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 577 · **Open PRs**: 9 · **Closed issues**: 322 · **Open issues**: 49 · **Commits**: 3229
+- **Releases**: 18 · **Merged PRs**: 579 · **Open PRs**: 8 · **Closed issues**: 322 · **Open issues**: 49 · **Commits**: 3241
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 11 | 2 | 0 | 0 | 45 |
-| last60d | 2026-08-20 | 0 | 30 | 5 | 2 | 2 | 112 |
-| 90d | 2026-07-21 | 1 | 36 | 6 | 5 | 2 | 184 |
-| last180d | 2026-04-22 | 1 | 69 | 9 | 26 | 8 | 276 |
-| 360d | 2025-10-24 | 3 | 121 | 9 | 57 | 23 | 562 |
-| last720d | 2024-10-29 | 6 | 266 | 9 | 143 | 35 | 1435 |
+| 30d | 2026-09-20 | 0 | 12 | 2 | 0 | 0 | 47 |
+| last60d | 2026-08-21 | 0 | 31 | 5 | 2 | 2 | 114 |
+| 90d | 2026-07-22 | 1 | 37 | 6 | 4 | 2 | 192 |
+| last180d | 2026-04-23 | 1 | 71 | 8 | 25 | 8 | 285 |
+| 360d | 2025-10-25 | 3 | 123 | 8 | 57 | 23 | 571 |
+| last720d | 2024-10-30 | 6 | 268 | 8 | 143 | 35 | 1447 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:49:21Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:11:43Z._
