@@ -38,7 +38,7 @@ Total: **31,523** lines of code across **469** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 41,800 · **Forks**: 1,942 · **Open issues**: 376 · **Contributors**: 81
+- **Stars**: 41,807 · **Forks**: 1,941 · **Open issues**: 376 · **Contributors**: 81
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **31,523** lines of code across **469** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 17 | 3 | 1 | 3 | 53 |
-| last60d | 2026-09-02 | 0 | 28 | 3 | 2 | 3 | 105 |
-| 90d | 2026-08-03 | 0 | 41 | 6 | 5 | 5 | 201 |
-| last180d | 2026-05-05 | 1 | 70 | 9 | 22 | 6 | 283 |
-| 360d | 2025-11-06 | 2 | 123 | 9 | 58 | 25 | 570 |
-| last720d | 2024-11-11 | 6 | 275 | 9 | 143 | 36 | 1467 |
+| 30d | 2026-10-03 | 0 | 17 | 3 | 1 | 3 | 45 |
+| last60d | 2026-09-03 | 0 | 27 | 3 | 2 | 3 | 85 |
+| 90d | 2026-08-04 | 0 | 41 | 6 | 4 | 5 | 169 |
+| last180d | 2026-05-06 | 1 | 68 | 9 | 21 | 6 | 266 |
+| 360d | 2025-11-07 | 2 | 122 | 9 | 57 | 25 | 560 |
+| last720d | 2024-11-12 | 6 | 275 | 9 | 143 | 36 | 1466 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Total: **31,523** lines of code across **469** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **27** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **25** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:19:56Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:19:24Z._
