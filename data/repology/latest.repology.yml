@@ -1,38 +1,10 @@
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: crates_io
   srcname: sniffnet
-  binname: sniffnet
   visiblename: sniffnet
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: newest
-  summary: Application to comfortably monitor your network traffic
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: stalix_dev
-  srcname: bin/sniff/net
-  binname: bin/sniff/net
-  visiblename: bin/sniff/net
   version: 1.5.1
   origversion: null
   status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: arch
-  subrepo: extra
-  srcname: sniffnet
-  binname: sniffnet
-  visiblename: sniffnet
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: newest
   summary: Application to comfortably monitor your network traffic
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: alt_p11
   srcname: sniffnet
   binnames:
@@ -65,6 +37,18 @@
     - Apache-2.0 or MIT
   categories:
     - Networking/Other
+- repo: arch
+  subrepo: extra
+  srcname: sniffnet
+  binname: sniffnet
+  visiblename: sniffnet
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  summary: Application to comfortably monitor your network traffic
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: aur
   srcname: sniffnet-bin
   binname: sniffnet-bin
@@ -78,13 +62,6 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: crates_io
-  srcname: sniffnet
-  visiblename: sniffnet
-  version: 1.5.1
-  origversion: null
-  status: newest
-  summary: Application to comfortably monitor your network traffic
 - repo: freebsd
   srcname: net/sniffnet
   binname: sniffnet
@@ -132,24 +109,36 @@
   srcname: sniffnet
   binname: sniffnet
   visiblename: sniffnet
-  version: 1.2.2
-  origversion: 1.2.2-1
-  status: outdated
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
   summary: Application to comfortably monitor your network traffic
   licenses:
-    - Apache
+    - Apache-2.0
     - MIT
 - repo: manjaro_testing
   subrepo: extra
   srcname: sniffnet
   binname: sniffnet
   visiblename: sniffnet
-  version: 1.2.2
-  origversion: 1.2.2-1
-  status: outdated
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
   summary: Application to comfortably monitor your network traffic
   licenses:
-    - Apache
+    - Apache-2.0
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: sniffnet
+  binname: sniffnet
+  visiblename: sniffnet
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  summary: Application to comfortably monitor your network traffic
+  licenses:
+    - Apache-2.0
     - MIT
 - repo: nix_stable_24_05
   srcname: sniffnet
@@ -344,6 +333,17 @@
   categories:
     - debug
 - repo: stalix
+  srcname: bin/sniff/net
+  binname: bin/sniff/net
+  visiblename: bin/sniff/net
+  version: 1.5.1
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
   srcname: bin/sniff/net
   binname: bin/sniff/net
   visiblename: bin/sniff/net
