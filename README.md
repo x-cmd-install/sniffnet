@@ -14,11 +14,11 @@ x install sniffnet
 
 ## Code insight
 
-Total: **31,537** lines of code across **469** files in the top 5 languages.
+Total: **31,599** lines of code across **469** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 29,635 | 2,410 | 2,943 | 168 |
+| Rust | 29,697 | 2,410 | 2,943 | 168 |
 | Svg | 1,437 | 4 | 4 | 286 |
 | Toml | 272 | 19 | 43 | 13 |
 | Python | 131 | 10 | 20 | 1 |
@@ -33,27 +33,27 @@ Total: **31,537** lines of code across **469** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.1` (2026-07-22)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-07
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 41,940 · **Forks**: 1,958 · **Open issues**: 378 · **Contributors**: 82
+- **Stars**: 41,987 · **Forks**: 1,962 · **Open issues**: 378 · **Contributors**: 84
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 589 · **Open PRs**: 8 · **Closed issues**: 330 · **Open issues**: 48 · **Commits**: 3265
+- **Releases**: 18 · **Merged PRs**: 594 · **Open PRs**: 8 · **Closed issues**: 330 · **Open issues**: 48 · **Commits**: 3276
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 17 | 2 | 5 | 1 | 48 |
-| last60d | 2026-09-08 | 0 | 27 | 2 | 5 | 1 | 88 |
-| 90d | 2026-08-09 | 0 | 42 | 5 | 8 | 3 | 172 |
-| last180d | 2026-05-11 | 1 | 67 | 8 | 25 | 4 | 269 |
-| 360d | 2025-11-12 | 2 | 123 | 8 | 61 | 22 | 563 |
-| last720d | 2024-11-17 | 6 | 276 | 8 | 147 | 34 | 1468 |
+| 30d | 2026-10-09 | 0 | 22 | 2 | 5 | 1 | 55 |
+| last60d | 2026-09-09 | 0 | 32 | 2 | 5 | 1 | 95 |
+| 90d | 2026-08-10 | 0 | 47 | 5 | 8 | 3 | 179 |
+| last180d | 2026-05-12 | 1 | 72 | 8 | 25 | 4 | 276 |
+| 360d | 2025-11-13 | 2 | 128 | 8 | 61 | 22 | 570 |
+| last720d | 2024-11-18 | 6 | 281 | 8 | 147 | 34 | 1479 |
 
 ## Release assets
 
@@ -75,16 +75,6 @@ Total: **31,537** lines of code across **469** files in the top 5 languages.
 | [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi) | 20.2 MiB | `native/win/x64` |
 | [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi) | 19.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **27** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.5.1` | ✅ latest |
-| Homebrew | `1.5.1` | ✅ latest |
-| Nix unstable | `1.5.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sniffnet` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -94,4 +84,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:15:26Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:13:58Z._
