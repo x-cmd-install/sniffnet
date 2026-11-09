@@ -38,7 +38,7 @@ Total: **31,599** lines of code across **469** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 41,987 · **Forks**: 1,962 · **Open issues**: 378 · **Contributors**: 84
+- **Stars**: 42,121 · **Forks**: 1,978 · **Open issues**: 378 · **Contributors**: 84
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **31,599** lines of code across **469** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 22 | 2 | 5 | 1 | 55 |
-| last60d | 2026-09-09 | 0 | 32 | 2 | 5 | 1 | 95 |
-| 90d | 2026-08-10 | 0 | 47 | 5 | 8 | 3 | 179 |
-| last180d | 2026-05-12 | 1 | 72 | 8 | 25 | 4 | 276 |
-| 360d | 2025-11-13 | 2 | 128 | 8 | 61 | 22 | 570 |
-| last720d | 2024-11-18 | 6 | 281 | 8 | 147 | 34 | 1479 |
+| 30d | 2026-10-10 | 0 | 22 | 2 | 5 | 1 | 34 |
+| last60d | 2026-09-10 | 0 | 32 | 2 | 5 | 1 | 78 |
+| 90d | 2026-08-11 | 0 | 47 | 5 | 8 | 3 | 169 |
+| last180d | 2026-05-13 | 1 | 72 | 8 | 25 | 4 | 274 |
+| 360d | 2025-11-14 | 2 | 128 | 8 | 61 | 22 | 569 |
+| last720d | 2024-11-19 | 6 | 281 | 8 | 147 | 34 | 1479 |
 
 ## Release assets
 
@@ -75,6 +75,16 @@ Total: **31,599** lines of code across **469** files in the top 5 languages.
 | [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi) | 20.2 MiB | `native/win/x64` |
 | [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi) | 19.6 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **27** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.5.1` | ✅ latest |
+| Homebrew | `1.5.1` | ✅ latest |
+| Nix unstable | `1.5.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sniffnet` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +94,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:13:58Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:44:03Z._

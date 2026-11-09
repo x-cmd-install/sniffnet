@@ -38,7 +38,7 @@ x install sniffnet
 
 ## 流行度
 
-- **Star**: 41,987 · **Fork**: 1,962 · **开放 issue**: 378 · **贡献者**: 84
+- **Star**: 42,121 · **Fork**: 1,978 · **开放 issue**: 378 · **贡献者**: 84
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install sniffnet
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 22 | 2 | 5 | 1 | 55 |
-| last60d | 2026-09-09 | 0 | 32 | 2 | 5 | 1 | 95 |
-| 90d | 2026-08-10 | 0 | 47 | 5 | 8 | 3 | 179 |
-| last180d | 2026-05-12 | 1 | 72 | 8 | 25 | 4 | 276 |
-| 360d | 2025-11-13 | 2 | 128 | 8 | 61 | 22 | 570 |
-| last720d | 2024-11-18 | 6 | 281 | 8 | 147 | 34 | 1479 |
+| 30d | 2026-10-10 | 0 | 22 | 2 | 5 | 1 | 34 |
+| last60d | 2026-09-10 | 0 | 32 | 2 | 5 | 1 | 78 |
+| 90d | 2026-08-11 | 0 | 47 | 5 | 8 | 3 | 169 |
+| last180d | 2026-05-13 | 1 | 72 | 8 | 25 | 4 | 274 |
+| 360d | 2025-11-14 | 2 | 128 | 8 | 61 | 22 | 569 |
+| last720d | 2024-11-19 | 6 | 281 | 8 | 147 | 34 | 1479 |
 
 ## Release 资产
 
@@ -75,6 +75,16 @@ x install sniffnet
 | [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi) | 20.2 MiB | `native/win/x64` |
 | [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi) | 19.6 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/sniffnet) 上共有 **36** 个发行版报告此项目。**27** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.5.1` | ✅ latest |
+| Homebrew | `1.5.1` | ✅ latest |
+| Nix unstable | `1.5.1` | ✅ latest |
+
 ## 改进这些数据
 
 sniffnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `sniffnet` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +94,4 @@ sniffnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:13:59Z._
+_数据快照: `data/card/261109.yml` · 2026-11-09T06:44:03Z._
