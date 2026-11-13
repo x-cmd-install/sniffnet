@@ -1,10 +1,3 @@
-- repo: crates_io
-  srcname: sniffnet
-  visiblename: sniffnet
-  version: 1.5.1
-  origversion: null
-  status: newest
-  summary: Application to comfortably monitor your network traffic
 - repo: alt_p11
   srcname: sniffnet
   binnames:
@@ -62,6 +55,13 @@
   licenses:
     - Apache-2.0
     - MIT
+- repo: crates_io
+  srcname: sniffnet
+  visiblename: sniffnet
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: Application to comfortably monitor your network traffic
 - repo: freebsd
   srcname: net/sniffnet
   binname: sniffnet
