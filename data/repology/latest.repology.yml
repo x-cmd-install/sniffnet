@@ -228,7 +228,7 @@
     - sniffnet-debugsource
   visiblename: sniffnet
   version: 1.5.1
-  origversion: 1.5.1-1.8
+  origversion: 1.5.1-1.9
   status: newest
   summary: Application to monitor Internet traffic
   licenses:
