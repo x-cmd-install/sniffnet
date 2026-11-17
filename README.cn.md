@@ -14,13 +14,13 @@ x install sniffnet
 
 ## 代码洞察
 
-合计: **31,599** 行代码（覆盖前 5 种语言、共 **469** 个文件）。
+合计: **31,642** 行代码（覆盖前 5 种语言、共 **469** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 29,697 | 2,410 | 2,943 | 168 |
+| Rust | 29,736 | 2,416 | 2,946 | 168 |
 | Svg | 1,437 | 4 | 4 | 286 |
-| Toml | 272 | 19 | 43 | 13 |
+| Toml | 276 | 19 | 44 | 13 |
 | Python | 131 | 10 | 20 | 1 |
 | Dockerfile | 18 | 3 | 7 | 1 |
 
@@ -32,58 +32,58 @@ x install sniffnet
 
 ## 发布
 
-- **最新版本**: `v1.5.1` (2026-07-22)
-- **最近提交**: 2026-11-07
+- **最新版本**: `v1.6.0` (2026-11-16)
+- **最近提交**: 2026-11-16
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 42,861 · **Fork**: 2,017 · **开放 issue**: 381 · **贡献者**: 83
+- **Star**: 42,967 · **Fork**: 2,020 · **开放 issue**: 382 · **贡献者**: 85
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 597 · **开放 PR**: 11 · **已关闭 issue**: 331 · **开放 issue**: 50 · **提交数**: 3276
+- **发布数**: 19 · **已合并 PR**: 598 · **开放 PR**: 10 · **已关闭 issue**: 331 · **开放 issue**: 51 · **提交数**: 3306
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 18 | 5 | 6 | 3 | 17 |
-| last60d | 2026-09-17 | 0 | 30 | 5 | 6 | 3 | 69 |
-| 90d | 2026-08-18 | 0 | 48 | 8 | 8 | 5 | 143 |
-| last180d | 2026-05-20 | 1 | 75 | 11 | 25 | 5 | 272 |
-| 360d | 2025-11-21 | 2 | 129 | 11 | 62 | 24 | 565 |
-| last720d | 2024-11-26 | 6 | 281 | 11 | 145 | 36 | 1459 |
+| 30d | 2026-10-18 | 1 | 17 | 4 | 6 | 4 | 39 |
+| last60d | 2026-09-18 | 1 | 31 | 4 | 6 | 4 | 94 |
+| 90d | 2026-08-19 | 1 | 49 | 7 | 8 | 6 | 168 |
+| last180d | 2026-05-21 | 2 | 76 | 10 | 25 | 6 | 297 |
+| 360d | 2025-11-22 | 3 | 130 | 10 | 62 | 25 | 590 |
+| last720d | 2024-11-27 | 7 | 282 | 10 | 145 | 37 | 1486 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [Sniffnet_LinuxAppImage_amd64.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_amd64.AppImage) | 20.0 MiB | `native/linux/x64` |
-| [Sniffnet_LinuxAppImage_arm64.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_arm64.AppImage) | 19.3 MiB | `native/linux/arm64` |
-| [Sniffnet_LinuxAppImage_armhf.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_armhf.AppImage) | 19.2 MiB | `native/linux/arm` |
-| [Sniffnet_LinuxAppImage_i386.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_i386.AppImage) | 20.1 MiB | `native/linux/x86` |
-| [Sniffnet_LinuxDEB_amd64.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_amd64.deb) | 13.9 MiB | `native/linux/x64` |
-| [Sniffnet_LinuxDEB_arm64.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_arm64.deb) | 12.9 MiB | `native/linux/arm64` |
-| [Sniffnet_LinuxDEB_armhf.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_armhf.deb) | 13.0 MiB | `native/linux/arm` |
-| [Sniffnet_LinuxDEB_i386.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_i386.deb) | 14.0 MiB | `native/linux/x86` |
-| [Sniffnet_LinuxRPM_aarch64.rpm](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxRPM_aarch64.rpm) | 16.7 MiB | `native/linux/arm64` |
-| [Sniffnet_LinuxRPM_x86_64.rpm](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxRPM_x86_64.rpm) | 17.3 MiB | `native/linux/x64` |
-| [Sniffnet_macOS_AppleSilicon.dmg](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_AppleSilicon.dmg) | 18.7 MiB | `native/darwin/x64` |
-| [Sniffnet_macOS_Intel.dmg](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_Intel.dmg) | 19.1 MiB | `native/darwin/x64` |
-| [Sniffnet_Windows_arm64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_arm64.msi) | 19.8 MiB | `native/win/arm64` |
-| [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi) | 20.2 MiB | `native/win/x64` |
-| [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi) | 19.6 MiB | `native/win/x64` |
+| [Sniffnet_LinuxAppImage_amd64.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxAppImage_amd64.AppImage) | 17.9 MiB | `native/linux/x64` |
+| [Sniffnet_LinuxAppImage_arm64.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxAppImage_arm64.AppImage) | 17.1 MiB | `native/linux/arm64` |
+| [Sniffnet_LinuxAppImage_armhf.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxAppImage_armhf.AppImage) | 17.1 MiB | `native/linux/arm` |
+| [Sniffnet_LinuxAppImage_i386.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxAppImage_i386.AppImage) | 18.0 MiB | `native/linux/x86` |
+| [Sniffnet_LinuxDEB_amd64.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxDEB_amd64.deb) | 12.9 MiB | `native/linux/x64` |
+| [Sniffnet_LinuxDEB_arm64.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxDEB_arm64.deb) | 11.9 MiB | `native/linux/arm64` |
+| [Sniffnet_LinuxDEB_armhf.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxDEB_armhf.deb) | 12.0 MiB | `native/linux/arm` |
+| [Sniffnet_LinuxDEB_i386.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxDEB_i386.deb) | 13.1 MiB | `native/linux/x86` |
+| [Sniffnet_LinuxRPM_aarch64.rpm](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxRPM_aarch64.rpm) | 14.5 MiB | `native/linux/arm64` |
+| [Sniffnet_LinuxRPM_x86_64.rpm](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxRPM_x86_64.rpm) | 15.1 MiB | `native/linux/x64` |
+| [Sniffnet_macOS_AppleSilicon.dmg](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_macOS_AppleSilicon.dmg) | 15.6 MiB | `native/darwin/x64` |
+| [Sniffnet_macOS_Intel.dmg](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_macOS_Intel.dmg) | 16.1 MiB | `native/darwin/x64` |
+| [Sniffnet_Windows_arm64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_arm64.msi) | 16.9 MiB | `native/win/arm64` |
+| [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_x64.msi) | 17.4 MiB | `native/win/x64` |
+| [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_x86.msi) | 16.8 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/sniffnet) 上共有 **36** 个发行版报告此项目。**27** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/sniffnet) 上共有 **36** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**28** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `1.5.1` | ✅ latest |
-| Homebrew | `1.5.1` | ✅ latest |
-| Nix unstable | `1.5.1` | ✅ latest |
+| Arch | `1.6.0` | ✅ latest |
+| Homebrew | `1.6.0` | ✅ latest |
+| Nix unstable | `1.5.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -94,4 +94,4 @@ sniffnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:02:52Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T08:33:12Z._

@@ -14,13 +14,13 @@ x install sniffnet
 
 ## Code insight
 
-Total: **31,599** lines of code across **469** files in the top 5 languages.
+Total: **31,642** lines of code across **469** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 29,697 | 2,410 | 2,943 | 168 |
+| Rust | 29,736 | 2,416 | 2,946 | 168 |
 | Svg | 1,437 | 4 | 4 | 286 |
-| Toml | 272 | 19 | 43 | 13 |
+| Toml | 276 | 19 | 44 | 13 |
 | Python | 131 | 10 | 20 | 1 |
 | Dockerfile | 18 | 3 | 7 | 1 |
 
@@ -32,58 +32,58 @@ Total: **31,599** lines of code across **469** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.5.1` (2026-07-22)
-- **Last commit**: 2026-11-07
+- **Latest**: `v1.6.0` (2026-11-16)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 42,861 · **Forks**: 2,017 · **Open issues**: 381 · **Contributors**: 83
+- **Stars**: 42,967 · **Forks**: 2,020 · **Open issues**: 382 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 597 · **Open PRs**: 11 · **Closed issues**: 331 · **Open issues**: 50 · **Commits**: 3276
+- **Releases**: 19 · **Merged PRs**: 598 · **Open PRs**: 10 · **Closed issues**: 331 · **Open issues**: 51 · **Commits**: 3306
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 18 | 5 | 6 | 3 | 17 |
-| last60d | 2026-09-17 | 0 | 30 | 5 | 6 | 3 | 69 |
-| 90d | 2026-08-18 | 0 | 48 | 8 | 8 | 5 | 143 |
-| last180d | 2026-05-20 | 1 | 75 | 11 | 25 | 5 | 272 |
-| 360d | 2025-11-21 | 2 | 129 | 11 | 62 | 24 | 565 |
-| last720d | 2024-11-26 | 6 | 281 | 11 | 145 | 36 | 1459 |
+| 30d | 2026-10-18 | 1 | 17 | 4 | 6 | 4 | 39 |
+| last60d | 2026-09-18 | 1 | 31 | 4 | 6 | 4 | 94 |
+| 90d | 2026-08-19 | 1 | 49 | 7 | 8 | 6 | 168 |
+| last180d | 2026-05-21 | 2 | 76 | 10 | 25 | 6 | 297 |
+| 360d | 2025-11-22 | 3 | 130 | 10 | 62 | 25 | 590 |
+| last720d | 2024-11-27 | 7 | 282 | 10 | 145 | 37 | 1486 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Sniffnet_LinuxAppImage_amd64.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_amd64.AppImage) | 20.0 MiB | `native/linux/x64` |
-| [Sniffnet_LinuxAppImage_arm64.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_arm64.AppImage) | 19.3 MiB | `native/linux/arm64` |
-| [Sniffnet_LinuxAppImage_armhf.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_armhf.AppImage) | 19.2 MiB | `native/linux/arm` |
-| [Sniffnet_LinuxAppImage_i386.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxAppImage_i386.AppImage) | 20.1 MiB | `native/linux/x86` |
-| [Sniffnet_LinuxDEB_amd64.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_amd64.deb) | 13.9 MiB | `native/linux/x64` |
-| [Sniffnet_LinuxDEB_arm64.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_arm64.deb) | 12.9 MiB | `native/linux/arm64` |
-| [Sniffnet_LinuxDEB_armhf.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_armhf.deb) | 13.0 MiB | `native/linux/arm` |
-| [Sniffnet_LinuxDEB_i386.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxDEB_i386.deb) | 14.0 MiB | `native/linux/x86` |
-| [Sniffnet_LinuxRPM_aarch64.rpm](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxRPM_aarch64.rpm) | 16.7 MiB | `native/linux/arm64` |
-| [Sniffnet_LinuxRPM_x86_64.rpm](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_LinuxRPM_x86_64.rpm) | 17.3 MiB | `native/linux/x64` |
-| [Sniffnet_macOS_AppleSilicon.dmg](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_AppleSilicon.dmg) | 18.7 MiB | `native/darwin/x64` |
-| [Sniffnet_macOS_Intel.dmg](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_macOS_Intel.dmg) | 19.1 MiB | `native/darwin/x64` |
-| [Sniffnet_Windows_arm64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_arm64.msi) | 19.8 MiB | `native/win/arm64` |
-| [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x64.msi) | 20.2 MiB | `native/win/x64` |
-| [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.5.1/Sniffnet_Windows_x86.msi) | 19.6 MiB | `native/win/x64` |
+| [Sniffnet_LinuxAppImage_amd64.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxAppImage_amd64.AppImage) | 17.9 MiB | `native/linux/x64` |
+| [Sniffnet_LinuxAppImage_arm64.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxAppImage_arm64.AppImage) | 17.1 MiB | `native/linux/arm64` |
+| [Sniffnet_LinuxAppImage_armhf.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxAppImage_armhf.AppImage) | 17.1 MiB | `native/linux/arm` |
+| [Sniffnet_LinuxAppImage_i386.AppImage](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxAppImage_i386.AppImage) | 18.0 MiB | `native/linux/x86` |
+| [Sniffnet_LinuxDEB_amd64.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxDEB_amd64.deb) | 12.9 MiB | `native/linux/x64` |
+| [Sniffnet_LinuxDEB_arm64.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxDEB_arm64.deb) | 11.9 MiB | `native/linux/arm64` |
+| [Sniffnet_LinuxDEB_armhf.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxDEB_armhf.deb) | 12.0 MiB | `native/linux/arm` |
+| [Sniffnet_LinuxDEB_i386.deb](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxDEB_i386.deb) | 13.1 MiB | `native/linux/x86` |
+| [Sniffnet_LinuxRPM_aarch64.rpm](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxRPM_aarch64.rpm) | 14.5 MiB | `native/linux/arm64` |
+| [Sniffnet_LinuxRPM_x86_64.rpm](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_LinuxRPM_x86_64.rpm) | 15.1 MiB | `native/linux/x64` |
+| [Sniffnet_macOS_AppleSilicon.dmg](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_macOS_AppleSilicon.dmg) | 15.6 MiB | `native/darwin/x64` |
+| [Sniffnet_macOS_Intel.dmg](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_macOS_Intel.dmg) | 16.1 MiB | `native/darwin/x64` |
+| [Sniffnet_Windows_arm64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_arm64.msi) | 16.9 MiB | `native/win/arm64` |
+| [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_x64.msi) | 17.4 MiB | `native/win/x64` |
+| [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_x86.msi) | 16.8 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **27** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **7** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.5.1` | ✅ latest |
-| Homebrew | `1.5.1` | ✅ latest |
-| Nix unstable | `1.5.1` | ✅ latest |
+| Arch | `1.6.0` | ✅ latest |
+| Homebrew | `1.6.0` | ✅ latest |
+| Nix unstable | `1.5.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -94,4 +94,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:02:52Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:33:12Z._
