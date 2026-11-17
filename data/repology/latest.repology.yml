@@ -1,3 +1,39 @@
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: sniffnet
+  binname: sniffnet
+  visiblename: sniffnet
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: outdated
+  summary: Application to comfortably monitor your network traffic
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: sniffnet
+  binname: sniffnet
+  visiblename: sniffnet
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: outdated
+  summary: Application to comfortably monitor your network traffic
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: sniffnet
+  binname: sniffnet
+  visiblename: sniffnet
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: outdated
+  summary: Application to comfortably monitor your network traffic
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: alt_p11
   srcname: sniffnet
   binnames:
@@ -6,7 +42,7 @@
   visiblename: sniffnet
   version: 1.5.1
   origversion: 1.5.1-alt2
-  status: newest
+  status: outdated
   summary: Application to comfortably monitor your network traffic
   maintainers:
     - dutyrok@altlinux.org
@@ -22,7 +58,7 @@
   visiblename: sniffnet
   version: 1.5.1
   origversion: 1.5.1-alt2
-  status: newest
+  status: outdated
   summary: Application to comfortably monitor your network traffic
   maintainers:
     - dutyrok@altlinux.org
@@ -35,8 +71,8 @@
   srcname: sniffnet
   binname: sniffnet
   visiblename: sniffnet
-  version: 1.5.1
-  origversion: 1.5.1-1
+  version: 1.6.0
+  origversion: 1.6.0-1
   status: newest
   summary: Application to comfortably monitor your network traffic
   licenses:
@@ -58,7 +94,7 @@
 - repo: crates_io
   srcname: sniffnet
   visiblename: sniffnet
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
   status: newest
   summary: Application to comfortably monitor your network traffic
@@ -68,7 +104,7 @@
   visiblename: net/sniffnet
   version: 1.5.1
   origversion: 1.5.1_2
-  status: newest
+  status: outdated
   summary: Comfortably monitor your Internet traffic
   maintainers:
     - tagattie@freebsd.org
@@ -77,7 +113,7 @@
 - repo: homebrew
   srcname: sniffnet
   visiblename: sniffnet
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
   status: newest
   summary: Cross-platform application to monitor your network traffic
@@ -94,7 +130,7 @@
   visiblename: sniffnet
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Comfortably monitor your Internet traffic
   maintainers:
     - i0ntempest@macports
@@ -104,42 +140,6 @@
     - MIT
   categories:
     - net
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: sniffnet
-  binname: sniffnet
-  visiblename: sniffnet
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: newest
-  summary: Application to comfortably monitor your network traffic
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: sniffnet
-  binname: sniffnet
-  visiblename: sniffnet
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: newest
-  summary: Application to comfortably monitor your network traffic
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: sniffnet
-  binname: sniffnet
-  visiblename: sniffnet
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: newest
-  summary: Application to comfortably monitor your network traffic
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: nix_stable_24_05
   srcname: sniffnet
   visiblename: sniffnet
@@ -213,7 +213,7 @@
   visiblename: sniffnet
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Cross-platform application to monitor your network traffic with ease
   maintainers:
     - fedi.jamoussi@protonmail.ch
@@ -229,7 +229,7 @@
   visiblename: sniffnet
   version: 1.5.1
   origversion: 1.5.1-1.9
-  status: newest
+  status: outdated
   summary: Application to monitor Internet traffic
   licenses:
     - Apache-2.0 AND MIT
@@ -252,7 +252,7 @@
   visiblename: sniffnet
   version: 1.5.1
   origversion: 1.5.1-1
-  status: newest
+  status: outdated
   summary: Application to comfortably monitor your network traffic
   licenses:
     - Apache-2.0
@@ -275,7 +275,7 @@
   visiblename: net/sniffnet
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Application to comfortably monitor your network traffic
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -287,7 +287,7 @@
   visiblename: net/sniffnet
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Application to comfortably monitor your network traffic
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -297,7 +297,7 @@
   subrepo: extras
   binname: sniffnet
   visiblename: sniffnet
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
   status: newest
   licenses:
@@ -308,7 +308,7 @@
   visiblename: sniffnet
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Comfortably monitor your Internet traffic.
   maintainers:
     - jakob@knugen.nu
@@ -323,7 +323,7 @@
   visiblename: sniffnet-dbginfo
   version: 1.5.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Debug symbols for sniffnet
   maintainers:
     - jakob@knugen.nu
@@ -336,7 +336,7 @@
   srcname: bin/sniff/net
   binname: bin/sniff/net
   visiblename: bin/sniff/net
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
   status: newest
   maintainers:
@@ -347,7 +347,7 @@
   srcname: bin/sniff/net
   binname: bin/sniff/net
   visiblename: bin/sniff/net
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
   status: newest
   maintainers:
@@ -357,7 +357,7 @@
 - repo: t2
   srcname: sniffnet
   visiblename: sniffnet
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
   status: newest
   summary: Comfortably monitor your Internet traffic
@@ -373,7 +373,7 @@
   visiblename: sniffnet
   version: 1.5.1
   origversion: 1.5.1-2.fcrawhide
-  status: newest
+  status: outdated
   summary: Comfortably monitor your Internet traffic
   maintainers:
     - owen@fyralabs.com
@@ -387,7 +387,7 @@
   visiblename: sniffnet
   version: 1.5.1
   origversion: 1.5.1-2.fcrawhide
-  status: newest
+  status: outdated
   summary: Comfortably monitor your Internet traffic
   maintainers:
     - owen@fyralabs.com
@@ -401,7 +401,7 @@
   visiblename: sniffnet-debuginfo
   version: 1.5.1
   origversion: 1.5.1-2.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package sniffnet
   maintainers:
     - owen@fyralabs.com
@@ -415,7 +415,7 @@
   visiblename: sniffnet-debuginfo
   version: 1.5.1
   origversion: 1.5.1-2.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package sniffnet
   maintainers:
     - owen@fyralabs.com
@@ -429,7 +429,7 @@
   visiblename: sniffnet-debugsource
   version: 1.5.1
   origversion: 1.5.1-2.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package sniffnet
   maintainers:
     - owen@fyralabs.com
@@ -443,7 +443,7 @@
   visiblename: sniffnet-debugsource
   version: 1.5.1
   origversion: 1.5.1-2.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package sniffnet
   maintainers:
     - owen@fyralabs.com
