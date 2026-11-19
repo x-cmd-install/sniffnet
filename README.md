@@ -33,27 +33,27 @@ Total: **31,642** lines of code across **469** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.0` (2026-11-16)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 42,967 · **Forks**: 2,020 · **Open issues**: 382 · **Contributors**: 85
+- **Stars**: 43,100 · **Forks**: 2,022 · **Open issues**: 382 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 598 · **Open PRs**: 10 · **Closed issues**: 331 · **Open issues**: 51 · **Commits**: 3306
+- **Releases**: 19 · **Merged PRs**: 601 · **Open PRs**: 8 · **Closed issues**: 332 · **Open issues**: 50 · **Commits**: 3312
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 17 | 4 | 6 | 4 | 39 |
-| last60d | 2026-09-18 | 1 | 31 | 4 | 6 | 4 | 94 |
-| 90d | 2026-08-19 | 1 | 49 | 7 | 8 | 6 | 168 |
-| last180d | 2026-05-21 | 2 | 76 | 10 | 25 | 6 | 297 |
-| 360d | 2025-11-22 | 3 | 130 | 10 | 62 | 25 | 590 |
-| last720d | 2024-11-27 | 7 | 282 | 10 | 145 | 37 | 1486 |
+| 30d | 2026-10-20 | 1 | 18 | 2 | 5 | 4 | 43 |
+| last60d | 2026-09-20 | 1 | 33 | 2 | 6 | 4 | 98 |
+| 90d | 2026-08-21 | 1 | 52 | 5 | 8 | 6 | 172 |
+| last180d | 2026-05-23 | 2 | 79 | 8 | 25 | 6 | 301 |
+| 360d | 2025-11-24 | 3 | 133 | 8 | 62 | 25 | 594 |
+| last720d | 2024-11-29 | 7 | 284 | 8 | 145 | 37 | 1491 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Total: **31,642** lines of code across **469** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **7** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **9** are ✅ on the latest upstream release, **26** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:33:12Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:50:40Z._
