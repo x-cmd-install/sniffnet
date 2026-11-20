@@ -14,15 +14,15 @@ x install sniffnet
 
 ## Code insight
 
-Total: **31,642** lines of code across **469** files in the top 5 languages.
+Total: **31,657** lines of code across **472** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 29,736 | 2,416 | 2,946 | 168 |
+| Rust | 29,750 | 2,416 | 2,946 | 168 |
 | Svg | 1,437 | 4 | 4 | 286 |
 | Toml | 276 | 19 | 44 | 13 |
 | Python | 131 | 10 | 20 | 1 |
-| Dockerfile | 18 | 3 | 7 | 1 |
+| Sh | 19 | 8 | 12 | 4 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **31,642** lines of code across **469** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.0` (2026-11-16)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-19
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 43,100 · **Forks**: 2,022 · **Open issues**: 382 · **Contributors**: 85
+- **Stars**: 43,152 · **Forks**: 2,024 · **Open issues**: 384 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 601 · **Open PRs**: 8 · **Closed issues**: 332 · **Open issues**: 50 · **Commits**: 3312
+- **Releases**: 19 · **Merged PRs**: 603 · **Open PRs**: 7 · **Closed issues**: 334 · **Open issues**: 50 · **Commits**: 3314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 18 | 2 | 5 | 4 | 43 |
-| last60d | 2026-09-20 | 1 | 33 | 2 | 6 | 4 | 98 |
-| 90d | 2026-08-21 | 1 | 52 | 5 | 8 | 6 | 172 |
-| last180d | 2026-05-23 | 2 | 79 | 8 | 25 | 6 | 301 |
-| 360d | 2025-11-24 | 3 | 133 | 8 | 62 | 25 | 594 |
-| last720d | 2024-11-29 | 7 | 284 | 8 | 145 | 37 | 1491 |
+| 30d | 2026-10-21 | 1 | 20 | 1 | 7 | 4 | 45 |
+| last60d | 2026-09-21 | 1 | 35 | 1 | 8 | 4 | 100 |
+| 90d | 2026-08-22 | 1 | 53 | 4 | 10 | 6 | 174 |
+| last180d | 2026-05-24 | 2 | 81 | 7 | 27 | 6 | 303 |
+| 360d | 2025-11-25 | 3 | 135 | 7 | 64 | 25 | 596 |
+| last720d | 2024-11-30 | 7 | 286 | 7 | 147 | 37 | 1486 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Total: **31,642** lines of code across **469** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **9** are ✅ on the latest upstream release, **26** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/sniffnet). **12** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for sniffnet lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:50:40Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:59:49Z._
