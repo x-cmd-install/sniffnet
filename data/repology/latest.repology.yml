@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: sniffnet
+  visiblename: sniffnet
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Cross-platform application to monitor your network traffic
 - repo: alt_p11
   srcname: sniffnet
   binnames:
@@ -20,9 +27,9 @@
     - sniffnet
     - sniffnet-debuginfo
   visiblename: sniffnet
-  version: 1.5.1
-  origversion: 1.5.1-alt2
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0-alt1
+  status: newest
   summary: Application to comfortably monitor your network traffic
   maintainers:
     - dutyrok@altlinux.org
@@ -80,13 +87,6 @@
   version: 1.6.0
   origversion: null
   status: newest
-  summary: Cross-platform application to monitor your network traffic
-- repo: homebrew
-  srcname: sniffnet
-  visiblename: sniffnet
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Cross-platform application to monitor your network traffic
 - repo: macports
   srcname: net/sniffnet
@@ -285,9 +285,9 @@
   srcname: net/sniffnet
   binname: sniffnet
   visiblename: net/sniffnet
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Application to comfortably monitor your network traffic
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -306,9 +306,9 @@
   srcname: sniffnet
   binname: sniffnet
   visiblename: sniffnet
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Comfortably monitor your Internet traffic.
   maintainers:
     - jakob@knugen.nu
@@ -321,9 +321,9 @@
   srcname: sniffnet
   binname: sniffnet-dbginfo
   visiblename: sniffnet-dbginfo
-  version: 1.5.1
+  version: 1.6.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Debug symbols for sniffnet
   maintainers:
     - jakob@knugen.nu
