@@ -38,22 +38,22 @@ x install sniffnet
 
 ## 流行度
 
-- **Star**: 43,300 · **Fork**: 2,023 · **开放 issue**: 385 · **贡献者**: 86
+- **Star**: 43,317 · **Fork**: 2,026 · **开放 issue**: 385 · **贡献者**: 86
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 606 · **开放 PR**: 8 · **已关闭 issue**: 336 · **开放 issue**: 49 · **提交数**: 3325
+- **发布数**: 19 · **已合并 PR**: 606 · **开放 PR**: 9 · **已关闭 issue**: 336 · **开放 issue**: 49 · **提交数**: 3325
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 21 | 2 | 7 | 3 | 46 |
-| last60d | 2026-09-26 | 1 | 37 | 2 | 9 | 4 | 106 |
-| 90d | 2026-08-27 | 1 | 53 | 4 | 11 | 5 | 164 |
-| last180d | 2026-05-29 | 2 | 80 | 8 | 27 | 6 | 303 |
-| 360d | 2025-11-30 | 3 | 138 | 8 | 65 | 25 | 601 |
-| last720d | 2024-12-05 | 7 | 287 | 8 | 148 | 37 | 1489 |
+| 30d | 2026-10-27 | 1 | 21 | 3 | 7 | 3 | 46 |
+| last60d | 2026-09-27 | 1 | 37 | 3 | 9 | 4 | 106 |
+| 90d | 2026-08-28 | 1 | 51 | 5 | 11 | 5 | 164 |
+| last180d | 2026-05-30 | 2 | 80 | 9 | 27 | 6 | 303 |
+| 360d | 2025-12-01 | 3 | 138 | 9 | 65 | 25 | 601 |
+| last720d | 2024-12-06 | 7 | 286 | 9 | 148 | 37 | 1486 |
 
 ## Release 资产
 
@@ -75,6 +75,16 @@ x install sniffnet
 | [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_x64.msi) | 17.4 MiB | `native/win/x64` |
 | [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_x86.msi) | 16.8 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/sniffnet) 上共有 **36** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.6.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.5.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 sniffnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `sniffnet` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +94,4 @@ sniffnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:58:21Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T09:03:45Z._
