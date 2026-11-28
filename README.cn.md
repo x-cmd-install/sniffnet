@@ -33,27 +33,27 @@ x install sniffnet
 ## 发布
 
 - **最新版本**: `v1.6.0` (2026-11-16)
-- **最近提交**: 2026-11-22
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 15 个
 
 ## 流行度
 
-- **Star**: 43,343 · **Fork**: 2,029 · **开放 issue**: 385 · **贡献者**: 85
+- **Star**: 43,369 · **Fork**: 2,026 · **开放 issue**: 385 · **贡献者**: 85
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 606 · **开放 PR**: 9 · **已关闭 issue**: 336 · **开放 issue**: 49 · **提交数**: 3325
+- **发布数**: 19 · **已合并 PR**: 607 · **开放 PR**: 11 · **已关闭 issue**: 336 · **开放 issue**: 49 · **提交数**: 3326
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 21 | 3 | 7 | 3 | 46 |
-| last60d | 2026-09-28 | 1 | 37 | 3 | 9 | 4 | 106 |
-| 90d | 2026-08-29 | 1 | 50 | 5 | 11 | 5 | 164 |
-| last180d | 2026-05-31 | 2 | 80 | 9 | 27 | 6 | 303 |
-| 360d | 2025-12-02 | 3 | 138 | 9 | 65 | 25 | 601 |
-| last720d | 2024-12-07 | 7 | 286 | 9 | 148 | 37 | 1484 |
+| 30d | 2026-10-29 | 1 | 20 | 5 | 7 | 3 | 47 |
+| last60d | 2026-09-29 | 1 | 38 | 5 | 9 | 4 | 107 |
+| 90d | 2026-08-30 | 1 | 51 | 7 | 11 | 5 | 165 |
+| last180d | 2026-06-01 | 2 | 81 | 11 | 27 | 6 | 304 |
+| 360d | 2025-12-03 | 3 | 139 | 11 | 65 | 25 | 602 |
+| last720d | 2024-12-08 | 7 | 287 | 11 | 148 | 37 | 1481 |
 
 ## Release 资产
 
@@ -75,16 +75,6 @@ x install sniffnet
 | [Sniffnet_Windows_x64.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_x64.msi) | 17.4 MiB | `native/win/x64` |
 | [Sniffnet_Windows_x86.msi](https://github.com/GyulyVGC/sniffnet/releases/download/v1.6.0/Sniffnet_Windows_x86.msi) | 16.8 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/sniffnet) 上共有 **36** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.6.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.5.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 sniffnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `sniffnet` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -94,4 +84,4 @@ sniffnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:35:07Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:09:44Z._
